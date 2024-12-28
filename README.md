@@ -42,10 +42,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/pedrodev-design/pedrodev-design/output/snake.svg" alt="Snake animation" />
-
-###
-
 <h2 align="left">Social Media</h2>
 
 ###
