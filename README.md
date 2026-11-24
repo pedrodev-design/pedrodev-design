@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">👋 Hi, I'm Pedro!<br>I’m a passionate Front End Developer and Graphic Designer from GO, Brazil 🇧🇷. I specialize in creating intuitive and visually appealing web applications, focusing on performance and user experience. I also enjoy translating design concepts into functional code.<br><br>Feel free to explore my repositories and projects, and don't hesitate to reach out if you're interested in collaborating!</p>
+<p align="left">👋 </p>
 
 ###
 
